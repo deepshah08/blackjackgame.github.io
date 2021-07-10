@@ -1,0 +1,43 @@
+.container-4{
+    border: 2px dotted black;
+    margin: 10px auto;
+    text-align: center;
+    width: 80%;
+    padding: 2px;
+}
+.flex-blackjack-r2,.flex-blackjack-r1,.flex-blackjack-r3{
+    display: flex;
+    border: 1px solid black;
+    padding: 10px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.flex-blackjack-r1, .flex-blackjack-r2{
+    background: url('./images/istockphoto-453187915-612x612.jpg') center; /* this gats the centre of the image*/
+    color: #ffff;       /* this is to make the text readable ,as background image was very similar to the previous text color */
+
+}
+
+.flex-blackjack-r1 img{
+    width: 25%;
+    padding: 10px;
+}
+
+.flex-blackjack-r1 div{
+    border: 1px solid black;
+    padding: 10px;
+    height: 350px;
+    text-align: center;
+    flex: 1;
+}
+.flex-blackjack-r2  div,button{
+    padding: 2px;
+}
+
+table, tr,th,td{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+}
