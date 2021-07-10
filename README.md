@@ -16,4 +16,4 @@ Lost:
 If user’s score is less than bot’s score or user is busted.
 
 BUST LOGIC :
-If score exceeds or equals 21 
+If score exceeds 21 
