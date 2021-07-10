@@ -15,7 +15,7 @@
 
 }
 .flex-blackjack-r1, .flex-blackjack-r2{
-    background: url('./images/istockphoto-453187915-612x612.jpg') center; /* this gats the centre of the image*/
+    background: url('static/images/istockphoto-453187915-612x612.jpg') center; /* this gats the centre of the image*/
     color: #ffff;       /* this is to make the text readable ,as background image was very similar to the previous text color */
 
 }
